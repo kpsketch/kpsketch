@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00b894&center=false&vCenter=false&width=435&lines=Aspiring+Web+Developer;Creative+Thinker;Problem+Solver;Passionate+about+Code+%26+Design)](https://github.com/parneetkaur-dev)
 
+![alt text](656828F6-B4BB-48D0-8BDB-4C61854BD14E.jpeg)
+
 A passionate and creative **web developer in training**, blending a background in **marketing**, **technical support**, and **problem-solving** to build beautiful, functional websites and web apps.
 
 ---
@@ -65,7 +67,7 @@ Now, I’m diving into full-stack web development — crafting everything from c
 ### 🌐 [Portfolio Website](https://github.com/kpsketch)
 > My personal website — minimal, responsive, and designed to showcase my work and goals.
 
-> *(Replace the links with your actual GitHub repositories or live demos)*
+
 
 ---
 
@@ -83,7 +85,7 @@ I’d love to connect, collaborate, or chat about code, design, or learning in t
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/parneetkaur)  
 - 📧 Email: `parneet.kaur533@triosstudent.com`  
-- 🐙 GitHub: [@parneetkaur-dev](https://github.com/parneetkaur-dev)
+- 🐙 GitHub: [@kpsketch](https://github.com/kpsketch)
 
 ---
 
