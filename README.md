@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Parneet Kaur
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00b894&center=false&vCenter=false&width=435&lines=Aspiring+Web+Developer;Creative+Thinker;Problem+Solver;Passionate+about+Code+%26+Design)](https://github.com/parneetkaur-dev)
-
 ![alt text](656828F6-B4BB-48D0-8BDB-4C61854BD14E.jpeg)
 
 A passionate and creative **web developer in training**, blending a background in **marketing**, **technical support**, and **problem-solving** to build beautiful, functional websites and web apps.
